@@ -1,5 +1,5 @@
-npm install 
-
+### `npm install` 
+Install node modules
 
 
 ### `npm start`
