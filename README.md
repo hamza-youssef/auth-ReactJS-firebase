@@ -1,4 +1,4 @@
-npm install #npm i 
+npm install 
 
 
 
